@@ -1,0 +1,3 @@
+[submodule "Dual_Contour_Tutorial\\mc-dc\\"]
+	path = Dual_Contour_Tutorial\\mc-dc\\
+	url = https://github.com/BorisTheBrave/mc-dc.git
